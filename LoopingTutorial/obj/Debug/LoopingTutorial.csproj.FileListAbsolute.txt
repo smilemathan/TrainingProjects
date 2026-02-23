@@ -1,0 +1,8 @@
+C:\Users\smile\source\repos\TrainingProjects\LoopingTutorial\bin\Debug\LoopingTutorial.exe.config
+C:\Users\smile\source\repos\TrainingProjects\LoopingTutorial\bin\Debug\LoopingTutorial.exe
+C:\Users\smile\source\repos\TrainingProjects\LoopingTutorial\bin\Debug\LoopingTutorial.pdb
+C:\Users\smile\source\repos\TrainingProjects\LoopingTutorial\obj\Debug\LoopingTutorial.csproj.AssemblyReference.cache
+C:\Users\smile\source\repos\TrainingProjects\LoopingTutorial\obj\Debug\LoopingTutorial.csproj.CoreCompileInputs.cache
+C:\Users\smile\source\repos\TrainingProjects\LoopingTutorial\obj\Debug\LoopingTutorial.exe
+C:\Users\smile\source\repos\TrainingProjects\LoopingTutorial\obj\Debug\LoopingTutorial.pdb
+C:\Users\smile\source\repos\TrainingProjects\LoopingTutorial\obj\Debug\LoopingTutorial.exe.config

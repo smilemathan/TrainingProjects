@@ -1,0 +1,7 @@
+C:\Users\smile\source\repos\TrainingProjects\FindNearestThousand\bin\Debug\FindNearestThousand.exe.config
+C:\Users\smile\source\repos\TrainingProjects\FindNearestThousand\bin\Debug\FindNearestThousand.exe
+C:\Users\smile\source\repos\TrainingProjects\FindNearestThousand\bin\Debug\FindNearestThousand.pdb
+C:\Users\smile\source\repos\TrainingProjects\FindNearestThousand\obj\Debug\FindNearestThousand.csproj.AssemblyReference.cache
+C:\Users\smile\source\repos\TrainingProjects\FindNearestThousand\obj\Debug\FindNearestThousand.csproj.CoreCompileInputs.cache
+C:\Users\smile\source\repos\TrainingProjects\FindNearestThousand\obj\Debug\FindNearestThousand.exe
+C:\Users\smile\source\repos\TrainingProjects\FindNearestThousand\obj\Debug\FindNearestThousand.pdb
