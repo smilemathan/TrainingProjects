@@ -1,0 +1,12 @@
+C:\Users\smile\source\repos\TrainingProjects\Tutorial\bin\Debug\net9.0\Tutorial.deps.json
+C:\Users\smile\source\repos\TrainingProjects\Tutorial\bin\Debug\net9.0\Tutorial.dll
+C:\Users\smile\source\repos\TrainingProjects\Tutorial\bin\Debug\net9.0\Tutorial.pdb
+C:\Users\smile\source\repos\TrainingProjects\Tutorial\obj\Debug\net9.0\Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\source\repos\TrainingProjects\Tutorial\obj\Debug\net9.0\Tutorial.AssemblyInfoInputs.cache
+C:\Users\smile\source\repos\TrainingProjects\Tutorial\obj\Debug\net9.0\Tutorial.AssemblyInfo.cs
+C:\Users\smile\source\repos\TrainingProjects\Tutorial\obj\Debug\net9.0\Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\smile\source\repos\TrainingProjects\Tutorial\obj\Debug\net9.0\Tutorial.sourcelink.json
+C:\Users\smile\source\repos\TrainingProjects\Tutorial\obj\Debug\net9.0\Tutorial.dll
+C:\Users\smile\source\repos\TrainingProjects\Tutorial\obj\Debug\net9.0\refint\Tutorial.dll
+C:\Users\smile\source\repos\TrainingProjects\Tutorial\obj\Debug\net9.0\Tutorial.pdb
+C:\Users\smile\source\repos\TrainingProjects\Tutorial\obj\Debug\net9.0\ref\Tutorial.dll

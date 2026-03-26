@@ -1,0 +1,6 @@
+C:\Users\smile\source\repos\TrainingProjects\Tutorial\obj\Debug\net48\Tutorial.csproj.AssemblyReference.cache
+C:\Users\smile\source\repos\TrainingProjects\Tutorial\obj\Debug\net48\Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\source\repos\TrainingProjects\Tutorial\obj\Debug\net48\Tutorial.AssemblyInfoInputs.cache
+C:\Users\smile\source\repos\TrainingProjects\Tutorial\obj\Debug\net48\Tutorial.AssemblyInfo.cs
+C:\Users\smile\source\repos\TrainingProjects\Tutorial\obj\Debug\net48\Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\smile\source\repos\TrainingProjects\Tutorial\obj\Debug\net48\Tutorial.sourcelink.json
